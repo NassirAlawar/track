@@ -22,7 +22,7 @@ globals.allow_all = true
 globals.target = ""
 globals.count = 0
 globals.follow_distance = 0.75 --This is in game distance
-globals.max_distance = 50
+globals.max_distance = 1600
 globals.max_target_range = 1600 -- so 900 is 30, 1600=40
 globals.zone = 0
 globals.zone_id = 0
